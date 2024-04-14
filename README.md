@@ -56,7 +56,7 @@ This is a simple game created using HTML, CSS, and JavaScript. The game utilizes
 
 ## How to Play
 
-[Clink simple link : crystal-h.vercel.app.]
+[Open index.html and follow are intructions im game.]
 
 ## Getting Started
 
@@ -80,6 +80,11 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 [This project is open-source and contributions are free. Feel free to use, modify, and distribute it as you wish.]
+
+## Demo
+
+Check out the live demo [here](https://crystal-h.vercel.app).
+
 
 
 
