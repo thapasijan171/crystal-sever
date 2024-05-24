@@ -6,7 +6,7 @@
   in Github where things are broken up
   into more files. 
   
-  https://github.com/ste-vg/spell-caster
+  https://github.com/thapasijan171
   
   Right lets do this, we have a lot to 
   cover! Lets get started with...
