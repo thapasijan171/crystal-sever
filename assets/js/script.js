@@ -1453,14 +1453,7 @@ class ArcaneSpellEmitter extends Emitter {
         "smoke",
         "smoke",
         "circle",
-        // "smoke",
-        // "smoke",
         "circle",
-        // "smoke",
-        // "smoke",
-        // "smoke",
-        // "smoke",
-        // "sparkle",
       ],
     }
 
